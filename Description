@@ -2,6 +2,7 @@
 SQL queries for analyzing COVID-19 data (Jan 2020-2022).
 
 The original dataset used was from 'Our World in Data' (https://ourworldindata.org/coronavirus).
+The link for the Tableaus visualization can be found here: https://public.tableau.com/views/covidincompletenew/InfectionDB?:language=en-US&:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=y&publish=yes&:origin=viz_share_link
 
 
 ---- Goal ----
